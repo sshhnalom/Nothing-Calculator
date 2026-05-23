@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "NothingOS monochromatic calculator with all essential scientific functions and pixel-perfect design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
